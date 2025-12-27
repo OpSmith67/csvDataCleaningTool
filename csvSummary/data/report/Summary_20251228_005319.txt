@@ -1,0 +1,11 @@
+CSV Mail User Report
+==============================
+
+Total rows processed: 7
+No. of validated rows: 4
+No. of Skipped rows: 3
+
+Email domain breakdown
+example.com : 1
+google.com : 2
+proton.me : 1

@@ -1,0 +1,8 @@
+input_dir: data/input
+output_dir: data/output
+log_file: logs/run.log
+
+required_columns:
+  - id
+  - name
+  - email

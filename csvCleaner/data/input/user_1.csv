@@ -1,0 +1,9 @@
+id,name,email
+1,Alice,alice@example.com
+2,Bob,bob@example.com
+3,Charlie,
+4,,dave@example.com
+5,Eve,eve@example.com
+6,   ,blankname@example.com
+7,Frank,frank@example.com
+
